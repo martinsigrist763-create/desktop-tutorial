@@ -1,5 +1,17 @@
-# Welcome to GitHub Desktop!
+# Third Millennium GivenSpace
 
-This is your README. READMEs are where you can communicate what your project is and how to use it.
+A public, evolving body of work about AI, society, organisations, science and human flourishing.
 
-Write your name on line 6, save it, and then head back to GitHub Desktop.
+This repository currently acts as the staging site for Third Millennium GivenSpace. The site is intentionally simple and text-first so that ideas, experiments and daily notes can be maintained directly from ongoing work.
+
+## Structure
+
+- `index.html` — home page
+- `ideas.html` — core ideas and concepts
+- `experiments.html` — live experiments and tests
+- `projects.html` — larger workstreams
+- `daily.html` — daily GivenSpace entries
+- `about.html` — background and approach
+- `styles.css` — shared site design
+
+The aim is not to present a finished doctrine. It is to make an evolving body of reasoning inspectable and navigable.
